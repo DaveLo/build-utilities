@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # BuildUtilities
@@ -92,3 +93,7 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+=======
+# build-utilities
+Collection of build tool plugins
+>>>>>>> affe6daf05e0a294729772f484817373e206899b
